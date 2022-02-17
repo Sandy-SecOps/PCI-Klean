@@ -1,0 +1,17 @@
+{
+    "name": "test2",
+    "in_filepath": "./",
+    "out_filepath": "./",
+    "in_filename": "test.zip",
+    "out_filename": "",
+    "env": "test",
+    "func": "*",
+    "date": "*",
+    "ext": "*.pgp",
+    "is_enc": false,
+    "enc_type": "",
+    "uses_cert_enc": false,
+    "is_name_conv": false,
+    "TTR": 10,
+    "conmethod": "s3"
+}

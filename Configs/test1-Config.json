@@ -1,0 +1,17 @@
+{
+    "name": "test1",
+    "in_filepath": "./AutoKleanTest/in/",
+    "out_filepath": "./AutoKleanTest/out/",
+    "in_filename": "{env}{name}{func}{date}.{ext}",
+    "out_filename": "",
+    "env": "test",
+    "func": "*",
+    "date": "*",
+    "ext": "*.pgp",
+    "is_enc": true,
+    "enc_type": "pgp",
+    "uses_cert_enc": true,
+    "is_name_conv": true,
+    "TTR": 10,
+    "conmethod": "sftp"
+}
