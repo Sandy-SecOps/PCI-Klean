@@ -1,7 +1,7 @@
 {
     "name": "test1",
-    "in_filepath": "./AutoKleanTest/in/",
-    "out_filepath": "./AutoKleanTest/out/",
+    "in_filepath": "./in/",
+    "out_filepath": "./out/",
     "in_filename": "{env}{name}{func}{date}.{ext}",
     "out_filename": "",
     "env": "test",
